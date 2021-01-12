@@ -3,7 +3,7 @@ I worked with a group of five to back-test and develop a statistical arbitrage t
 
 We Utilized WRDS database to pull stock data.
 
-Our powerpoint presentation is under the file name 'Investment Strategy - Statistical Arbitrage'. 
+Our powerpoint presentation is under the file name 'Investment Strategy - Statistical Arbitrage.pptx'. 
 
 Our python code is under the file name 'AM Project Execute.ipynb'.
 
