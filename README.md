@@ -7,5 +7,10 @@ Our powerpoint presentation is under the file name 'Investment Strategy - Statis
 
 Our python code is under the file name 'AM Project Execute.ipynb'.
 
-# Team Members
+## Team Members
+Shan Ali [LinkedIn](https://www.linkedin.com/in/shan-ali88/) \
+David Cruz [LinkedIn](https://www.linkedin.com/in/david-cruz0505/) \
+Pete Davis \
+Dylan Nikol [LinkedIn](https://www.linkedin.com/in/dylan-nikol/) \
+Matthew Streichler [LinkedIn](https://www.linkedin.com/in/matthew-streichler/) [Github](https://github.com/mstreichler)
 
